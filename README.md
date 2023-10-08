@@ -24,5 +24,6 @@
 
 ### 5. Sequence Diagram Pembayaran
 
-![image](https://github.com/adityaputrawijaya/Sistem_Penjualan_SparxEA/assets/115687055/95099364-5b37-4e52-989e-92b727a34070)
+![image](https://github.com/adityaputrawijaya/Sistem_Penjualan_SparxEA/assets/115687055/f1855fc6-56fd-4b71-a2ef-379ba04442a5)
+
 
