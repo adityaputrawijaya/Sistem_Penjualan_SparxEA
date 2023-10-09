@@ -14,7 +14,7 @@
 
 ### 3. Activity diagram Pembayaran
 
-![image](https://github.com/adityaputrawijaya/Sistem_Penjualan_SparxEA/assets/115687055/1ddab94b-c03a-4de3-ae2d-fd87f9f2b2d6)
+![image](https://github.com/adityaputrawijaya/Sistem_Penjualan_SparxEA/assets/115687055/0b39e7f9-edc3-4233-aa26-06988e91bf18)
 
 
 ### 4. Sequence Diagram Pesan Makan
